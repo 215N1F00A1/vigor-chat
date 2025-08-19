@@ -3,7 +3,7 @@
 **Assignment:** Chat App with React + Modern Backend Simulation  
 **Deadline:** 21st August 2025  
 **Student:** [Your Name]  
-**Live Demo:** [Your Lovable URL - e.g., https://vigor-chat.vercel.app/]
+**Live Demo:** [https://vigor-chat.vercel.app/]
 
 ## 🎯 Project Overview
 
