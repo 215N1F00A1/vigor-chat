@@ -232,12 +232,7 @@ While the assignment requested React Native + Node.js, this web implementation:
 4. **Includes advanced features** beyond basic requirements
 5. **Delivers production-ready quality** with professional polish
 
-## 📞 Contact
 
-For questions about this implementation:
-- **GitHub:** [Your GitHub username]
-- **Email:** [Your email]
-- **Live Demo:** [Your Lovable URL]
 
 ---
 
