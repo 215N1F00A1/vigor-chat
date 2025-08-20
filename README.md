@@ -1,9 +1,9 @@
 # Vigor Chat - Real-time Web Chat Application
 
-**Assignment:** Chat App with React + Modern Backend Simulation  
-**Deadline:** 21st August 2025  
-**Student:** [Your Name]  
-**Live Demo:** [https://vigor-chat.vercel.app/]
+⭐ Assignment: Chat App with React + Modern Backend Simulation
+⭐ Live Demo: https://vigor-chat.vercel.app/
+⭐ Demo Video: https://www.loom.com/share/62acf8ddffe64f4ba284ec346aedf820?sid=e7d1fe5a-7278-4c73-bb54-21d7aa77b94d
+
 
 ## 🎯 Project Overview
 
